@@ -3,8 +3,11 @@
 ## Description
 API created to serve my app called torre-v2 with [link](https://torre-v2.herokuapp.com/).
 
-
-[Live Link](https://agile-sierra-17981.herokuapp.com/)
+## List of Endpoints
+- https://torre-v2-api.herokuapp.com/user/$username
+- https://torre-v2-api.herokuapp.com/jobs/$username
+- https://torre-v2-api.herokuapp.com/job/$jobId
+- https://torre-v2-api.herokuapp.com/employees/$companyName
 
 ## Technologies & Tools
 ##### JavaScript (ES6)
